@@ -127,6 +127,7 @@ header .banner .banner-text h1
     height: 85.356px;
     color: #1C1C1C;
     text-align: center;
+/* >>>>>>> c07dad8bd85caad0021e0fecee89b3cb902a766d */
     font-family: Montserrat;
     font-size: 40px;
     font-style: normal;
@@ -460,3 +461,6 @@ line-height: 142%;
     .fa-twitter{
         color: aqua;
     }
+/* =======
+
+>>>>>>> c07dad8bd85caad0021e0fecee89b3cb902a766d */
